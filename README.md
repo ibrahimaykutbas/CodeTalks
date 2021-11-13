@@ -27,7 +27,7 @@ React Native
 Bu depoyu yerel makinenizde klonlayın.
 
 ```
-git clone https://github.com/ibrahimaykutbas/patika-react-native.git
+git clone https://github.com/ibrahimaykutbas/CodeTalks.git
 ```
 
 ### Kullanım
@@ -35,7 +35,7 @@ git clone https://github.com/ibrahimaykutbas/patika-react-native.git
 Projeyi klonladıktan sonra kullanmak için:
 
 ```
-cd patika-react-native/CodeTalks
+cd CodeTalks
 cd .
 ```
 
