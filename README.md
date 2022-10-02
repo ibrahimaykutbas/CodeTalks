@@ -32,7 +32,7 @@ git clone https://github.com/ibrahimaykutbas/CodeTalks.git
 
 ### Hazırlık
 
-Projeyi klonladıktan sonra kullanmak için:
+Projeyi klonladıktan sonra ilgili dizine gidin.
 
 ```
 cd CodeTalks
